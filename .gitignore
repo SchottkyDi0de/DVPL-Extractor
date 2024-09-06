@@ -1,0 +1,6 @@
+/.env
+/output
+/.vscode
+/settings
+/locales
+__pycache__
