@@ -11,7 +11,7 @@ This license applies to all files in this project that contain Python source cod
 
 # Releases:
 
-pass
+[Win 10](https://github.com/SchottkyDi0de/DVPL-Extractor/releases/tag/stable) [stable]
 
 # Platforms:
 
