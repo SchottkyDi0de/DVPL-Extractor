@@ -1,0 +1,4 @@
+lz4==4.3.3
+auto-py-to-exe==2.44.1
+psutil==6.0.0
+customtkinter==5.2.2
