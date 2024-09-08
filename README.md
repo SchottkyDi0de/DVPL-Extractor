@@ -9,9 +9,8 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 This license applies to all files in this project that contain Python source code unless otherwise specified!
 
-# Releases:
-
-[Win 10](https://github.com/SchottkyDi0de/DVPL-Extractor/releases/tag/stable) [stable]
+# Releases & Downloads:
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows_10_/_11-0078D6?logo=windows11&logoColor=white)](https://github.com/SchottkyDi0de/DVPL-Extractor/releases/tag/stable)
 
 # Platforms:
 
